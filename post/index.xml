@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://work.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 11:18:43 +0800</lastBuildDate><atom:link href="http://work.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://work.github.io/post/first/</link>
+      <pubDate>Thu, 25 Nov 2021 11:18:43 +0800</pubDate>
+      
+      <guid>http://work.github.io/post/first/</guid>
+      <description>见到倨傲水平的就擦技术的 打开纳斯达克aks 三菱电机从开始的农村</description>
+    </item>
+    
+  </channel>
+</rss>

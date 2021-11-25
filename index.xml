@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://work.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 11:18:43 +0800</lastBuildDate><atom:link href="http://work.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://work.github.io/post/first/</link>
+      <pubDate>Thu, 25 Nov 2021 11:18:43 +0800</pubDate>
+      
+      <guid>http://work.github.io/post/first/</guid>
+      <description>见到倨傲水平的就擦技术的 打开纳斯达克aks 三菱电机从开始的农村</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://work.github.io/about/</link>
+      <pubDate>Thu, 25 Nov 2021 11:09:55 +0800</pubDate>
+      
+      <guid>http://work.github.io/about/</guid>
+      <description>的恐惧iOS大家哦 哦的考试就cops大家从 山东是肯定能考上的 经历扣税的模块灿烂的v</description>
+    </item>
+    
+  </channel>
+</rss>
